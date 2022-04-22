@@ -6,6 +6,8 @@ source_file = "cari_data.json"
 
 G = nx.Graph()
 
+analysis_measures_dict = {}
+
 #construct the graph by iterating through the json file
 with open(source_file, "r") as json_file:
     data = json.load(json_file)
@@ -15,17 +17,21 @@ with open(source_file, "r") as json_file:
             G.add_edge(aesthetic_category["ID"],similar_aesthetic)
 
 #store the ID of isolates, then remove from the graph
-isolates = list(nx.isolates(G))
+isolate_data = {"Isolate(s)":list(nx.isolates(G))}
+analysis_measures_dict.update(isolate_data)
 G.remove_nodes_from(list(nx.isolates(G)))
 
-# #calculate the diameter of the graph, ie the smallest path between opposite ends of the network
-nx.diameter(G)
+#calculate and store various analysis measures
+analysis_measures = {
+    "Diameter":nx.diameter(G),
+    "Density": nx.density(G),
+    "Bridges": list(nx.bridges(G)),
+    "Degree Centrality": nx.degree_centrality(G)
+}
 
-# #calculate the density of the graph, ie # of actual connections divided by # of total possible connections
-nx.density(G)
+analysis_measures_dict.update(analysis_measures)
 
-# #return a list of bridges, ie edges whose removal would disconnect the graph
-list(nx.bridges(G))
-
-# #return the degree centrality for each node, ie how many edges a node has
-nx.degree_centrality(G)
+#dump analysis measures to json
+with open("network_analysis.json", "w") as json_file:
+    
+    json.dump(analysis_measures,json_file)
