@@ -55,6 +55,7 @@ for aesthetic_slug in url_slug_list:
          "Start_Year": data["startYear"],
          "End_Year": None,
          "Link": "https://cari.institute/aesthetics/" + aesthetic_slug,
+         "Image": data["displayImage"]["url"],
          "Similar_Aesthetics": []}
         ) 
     
@@ -81,6 +82,4 @@ for aesthetic_slug in url_slug_list:
 with open("cari_data.json", "w") as json_file:
     
     json.dump(aesthetics_list,json_file)
-
-print(aesthetics_list)
 

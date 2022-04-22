@@ -23,6 +23,8 @@ end_years_element = SubElement(attributes_element,"attribute",id="2",title="end 
 
 urls_element = SubElement(attributes_element,"attribute",id="3",title="url",type="string")
 
+images_element = SubElement(attributes_element,"attribute",id="4",title="image",type="string")
+
 #set attributes for attributes element here, otherwise interferes with adding subelements
 attributes_element.set("class","nodes")
 
@@ -38,6 +40,7 @@ with open(source_file,"r") as json_file:
         aesthetic_description = aesthetic_category["Description"]
         aesthetic_start_year = aesthetic_category["Start_Year"]
         aesthetic_url = aesthetic_category["Link"]
+        image_url = aesthetic_category["Image"]
 
         node_element = SubElement(nodes_element,"node",id=aesthetic_id,label=aesthetic_name)
 
@@ -49,6 +52,8 @@ with open(source_file,"r") as json_file:
 
         url_element = SubElement(att_values_element,"attvalue",value=aesthetic_url).set("for","3")
 
+        image_element = SubElement(att_values_element,"attvalue",value=image_url).set("for","4")
+        
         #check if end year is present before adding attribute
         if aesthetic_category["End_Year"] is not None:
 
