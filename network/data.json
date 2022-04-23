@@ -1,0 +1,2645 @@
+{
+  "nodes": [
+    {
+      "label": "Four Colors",
+      "x": 182.4316864013672,
+      "y": 855.72021484375,
+      "id": "25",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/ad52ad3b5bbc489fa7049f996bfbb5da.png",
+        "Description": "The use of four particularly common colors in tech and general product design throughout the mid-2000s: Electric Lime, Sky Blue, Hot Pink, Tangerine Orange.Its use was particularly noticeable during the rise ofFrutiger AeroandSuperflat Pop, since a driving force in these trends was the personalization of products through color (see: various incarnations of the iPod like the Mini & Nano, as well as cameras like the Kodak DC240i Zoom [1999] and Fujifilm Finepix Z20fd [2008]).We've observed that this trend has significant ties to consumer product design in Japan, which is especially visible in stores like Daiso. The meaning of the colors has also recently been noted as possibly being a reference to the colors of different seasons in Japan, specifically:Pink -> SpringGreen -> SummerOrange -> AutumnBlue -> Winter",
+        "Cluster": "Acidgrafix",
+        "Start year": "Mid 2000s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/four-colors"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Frutiger Aero",
+      "x": -1705.22705078125,
+      "y": -1342.8135986328125,
+      "id": "27",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/8beb504f3ea44e15bd2be1b1a909f8aa.png",
+        "Description": "Tech aesthetic from 2005-2013. Motifs are: skeumorphism, glossy design, \"humanism\", tertiary color palettes, Frutiger/Humanist sans serif UI fonts, glass, auroras, bokeh, pictures of grass",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Mid 2000s",
+        "End year": "Early 2010s",
+        "Degree": "5",
+        "URL": "https://cari.institute/aesthetics/frutiger-aero"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 16.5
+    },
+    {
+      "label": "Genericana",
+      "x": 1261.9388427734375,
+      "y": 1285.93994140625,
+      "id": "29",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/6310b8ae1ec54b8ea0eda5a6ed790c39.png",
+        "Description": "1920s - 1950s packaging, sign painting fonts, references to American vernacular and skeuomorphisms with negative space to denote premium feel & materiality",
+        "Cluster": "Genericana",
+        "Start year": "Mid 1980s",
+        "End year": "Early 2010s",
+        "Degree": "6",
+        "URL": "https://cari.institute/aesthetics/genericana"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 19.200000762939453
+    },
+    {
+      "label": "Memphis Jr.",
+      "x": -1190.5216064453125,
+      "y": 1125.14306640625,
+      "id": "47",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/d5a9a787e8264a4981b110247b7e91f4.png",
+        "Description": "The children's version ofMemphis-Milanostyle postmodernism, popular from the late 1980s to the mid 1990s. It was gradually replaced by other kid-centric aesthetics likeUtopian Scholastic&Wacky Pomo.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Late 1980s",
+        "End year": "Early 1990s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/memphis-jr"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Vaporwave",
+      "x": -233.13436889648438,
+      "y": -547.3377075195312,
+      "id": "81",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/76948270bb5344a79af6f48f21f32660.png",
+        "Description": "The post-internet movement, closely tied with the music genre, of 1980s and '90s nostalgia warped by postmodern irony.",
+        "Cluster": "Vaporwave",
+        "Start year": "Early 2010s",
+        "End year": "Very Late 2010s",
+        "Degree": "6",
+        "URL": "https://cari.institute/aesthetics/vaporwave"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 19.200000762939453
+    },
+    {
+      "label": "Festival Marketplace",
+      "x": 1032.6619873046875,
+      "y": -1006.5501708984375,
+      "id": "24",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/3ad8332e87094b4c968f88edc4f422aa.png",
+        "Description": "A postmodern melange of 1800s-1900s American shopping vernacular, updated in a simplfied, colorful, celebratory form, popularly used in namesake 'Festival Marketplace'-style shopping centers. Serif fonts, dots or other simple shapes between letters, picnic checkerboards, balloons, banners, flags, confetti, diamonds, festival carts, circular logos, remixes of various older American advertising vernacular, sometimes a more fun freeform scribbly or script font to spice things up, simple colorful graphics, sometimes in silhouette. Sibley/Peteet, Steinhilber Deutsch & Gard, Michael Vanderbyl.",
+        "Cluster": "Global Village Coffeehouse",
+        "Start year": "Early 1980s",
+        "End year": "Early 1990s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/festival-marketplace"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Groovival",
+      "x": 1291.4183349609375,
+      "y": -187.37503051757812,
+      "id": "35",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/51f006a5fea149c7857a6b04c2b55b56.png",
+        "Description": "The 1990s rehashing of 1960s \"hippie\" / \"flower power\" aesthetics, as both a nostalgia play to boomers and an attempt to entice kids with bright psychedelic shapes and colors.",
+        "Cluster": "Wacky Pomo",
+        "Start year": "Late 1980s",
+        "End year": "Very Early 2000s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/groovival"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Industrial Americana",
+      "x": 1419.2095947265625,
+      "y": 880.3565673828125,
+      "id": "40",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/96510e39fd0343108ff8c77959144430.png",
+        "Description": "Public domain clip art from the 40s-60s as vernacular, popularized by Charles S. Anderson, French Paper Co. Manifested in interior & furniture design as subdued 'industrial' color palettes, retro-inspired industrial vernacular eg. rusted steel beams, heavy metals textures, mesh, concrete, brick etc.",
+        "Cluster": "Genericana",
+        "Start year": "Early 1990s",
+        "End year": "Mid 1990s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/industrial-americana"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Metalheart",
+      "x": -1035.5599365234375,
+      "y": -1222.06103515625,
+      "id": "49",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/ddea96bd7e8b41c7b1bd93cfec38cd71.png",
+        "Description": "Centers around the 'Metalheart / Transformer / Depthcore' aesthetic popular from around 1998-2004. It's named after the Metalheart book by Andreas Lindholm (2001). Pioneered by design firms like the Attik, Brainreactor, Gmunk, etc. in the late 1990s, it peaked & became oversaturated by the early 2000s, then essentially vanished in the late 2000s, morphing intoMcBling(basically Design Student's Orgasm on TVTropes) vector graphics, and replaced by more hand-drawnHipness Purgatory'indie twee' design. Many of these are collected from the piecemeal archives of old design sites like depthcore, archived sections of designers portfolios, deviantart and customize.org, and some scans I've taken from the Metalheart books, Plazm Magazine, and various design collection books from the era.",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Very Late 1990s",
+        "End year": "Mid 2000s",
+        "Degree": "4",
+        "URL": "https://cari.institute/aesthetics/metalheart"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 13.800000190734863
+    },
+    {
+      "label": "Disco Deco",
+      "x": -1190.5216064453125,
+      "y": 1025.6904296875,
+      "id": "18",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/9f8e09e0c42e4a4c8da530fd0ba5bad9.png",
+        "Description": "Art Deco revival in the context of the burgeoning disco scene (Studio 54), filled with bright and vibrant colors, geometric typefaces, some psychedelic imagery",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Mid 1960s",
+        "End year": "Late 1970s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/disco-deco"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Sportsbrut",
+      "x": 309.358154296875,
+      "y": 782.4393310546875,
+      "id": "73",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/4c2ba0a05f9c44baa62c71bc7b4defbd.png",
+        "Description": "Brutalist, grungy, and powerful, Sportsbrut uses simple, coarse grids, high-impact typography and grunge elements to convey action, excitement, and energy.",
+        "Cluster": "Acidgrafix",
+        "Start year": "Very Late 2010s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/sportsbrut"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Hexatron",
+      "x": -842.3125610351562,
+      "y": -949.26171875,
+      "id": "36",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/4c8f499f68a5407b8c25e933f21642c5.png",
+        "Description": "The Sci-Fi Angular Future Aesthetic of the 10s - Hexagons, Neon Blue, Holograms, Terminal-inspired UIs, cyberpunk-adjacent visuals. Angular technology with heavy ornamentation, sometimes white and shiny like withFrutiger Aerobut generally less clean, less curved.",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Very Early 2010s",
+        "End year": "Very Late 2010s",
+        "Degree": "7",
+        "URL": "https://cari.institute/aesthetics/hexatron"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 21.899999618530273
+    },
+    {
+      "label": "Nouveau Organic",
+      "x": 1118.7908935546875,
+      "y": -956.82373046875,
+      "id": "58",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/dacd8819d26140978ac86cac8d5e2757.png",
+        "Description": "Revival of Gaudi-Catalan Modernisme, Art Nouveau, early-mid 20th century organic architecture, under-the-sea vibes (sometimes), generally a naturalistic style prevalent in the very late 80s and 90s. Jordan Mozer, Barbara Lazaroff, Ayala Serfaty, and Javier Senosiain are some of the main names.",
+        "Cluster": "Global Village Coffeehouse",
+        "Start year": "Late 1980s",
+        "End year": "Mid 1990s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/nouveau-organic"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Acidgrafix",
+      "x": 668.7778930664062,
+      "y": 583.305908203125,
+      "id": "0",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/0dbe920bb6f149659a8f6ae59c28e1fb.png",
+        "Description": "Rule-bending, medium-blending \"Instagram grunge\". Full of horror vacui, chrome type, oddball textures and self-referentialism.",
+        "Cluster": "Acidgrafix",
+        "Start year": "Mid 2010s",
+        "Degree": "7",
+        "URL": "https://cari.institute/aesthetics/acidgrafix"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 21.899999618530273
+    },
+    {
+      "label": "New Wave Tropical",
+      "x": -1346.157958984375,
+      "y": 617.7279663085938,
+      "id": "57",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/06a866216fb348f1ac99ea49febb023f.png",
+        "Description": "Vibrant, colorful, tropical & rainforest imagery influenced by the wild & freeform visual experimentation ofPacific Punk Wave. There was also renewed interest, and some appropriation of the visual motifs of African, Caribbean & Latin cultures. A specific motif we've termed 'Colorful Cutout' is core to this aesthetic: simple, sometimes chunky irregular color shapes with that 'construction paper collage' look.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Very Late 1970s",
+        "End year": "Mid 1990s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/new-wave-tropical"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Neoclassical Pomo",
+      "x": 1266.8214111328125,
+      "y": -1040.6534423828125,
+      "id": "53",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/0bb69e9e6403401d9e6cb880319aa9f4.png",
+        "Description": "Revival of Neoclassical architecture (reintroduction of Roman/Greek features), as one of the cornerstones of Postmodern architecture and design",
+        "Cluster": "Global Village Coffeehouse",
+        "Start year": "Late 1970s",
+        "End year": "Early 1990s",
+        "Degree": "4",
+        "URL": "https://cari.institute/aesthetics/neoclassical-pomo"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 13.800000190734863
+    },
+    {
+      "label": "Pastel Southwestern",
+      "x": 1032.6619873046875,
+      "y": -907.0972290039062,
+      "id": "62",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/f6f2c4358fe949a097aa94ee1f5d683f.png",
+        "Description": "1980s iteration of 'southwestern' styles fused with the prevailing pastel color palette of the era. Sits between the earlier 1970s dark toned Southwestern-Mission style (eg. the original Taco Bell design), and the later 1990s-2000s earthy-toned Tuscan style. Pastel tones, plush furnishings, light wood accents, adobe accents, the emergence of the Kokopelli, geometric patterns derived from Indigenous-peoples art.",
+        "Cluster": "Global Village Coffeehouse",
+        "Start year": "Early 1980s",
+        "End year": "Mid 1990s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/pastel-southwestern"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Airbrush Surrealism",
+      "x": 100.6675033569336,
+      "y": -408.3118591308594,
+      "id": "1",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/5b8d8396560c4deb85cc8d2b2f83c7f3.png",
+        "Description": "The surrealistic airbrushed 70s-80s illustration aesthetic. Supersaturated colors, juxtaposed/floating objects, chrome textures, lightning, 'X-Ray' technical illustration.",
+        "Cluster": "Vaporwave",
+        "Start year": "Late 1960s",
+        "End year": "Mid 1980s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/airbrush-surrealism"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Paperback Chic",
+      "x": 1106.4068603515625,
+      "y": 788.054931640625,
+      "id": "61",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/e7ecf8cb4edd4d58b10e34bf3fbe1648.png",
+        "Description": "Natural, soft colors, didone or retro display typefaces and airy composition style. Sometimes called \"Chobanicore\" in reference to the 2017 Chobani yogurt rebrand by Will Mac.",
+        "Cluster": "Genericana",
+        "Start year": "Late 2010s",
+        "Degree": "4",
+        "URL": "https://cari.institute/aesthetics/paperback-chic"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 13.800000190734863
+    },
+    {
+      "label": "Diner Kitsch",
+      "x": -1276.650390625,
+      "y": 1075.4169921875,
+      "id": "17",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/78f088ce5d444fd6960b9fc501483548.png",
+        "Description": "Baby Boomer & Silent Generation revival of various 1940s-1950s cultural iconography, design, and kitsch associated with diner, drive-in's and malt shop culture. Jukeboxes, poodle skirts, 1950s advertising kitsch, neon, chromed-out automobiles, metallic paneling, 'American Graffiti'-style fonts.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Mid 1970s",
+        "End year": "Early 1990s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/diner-kitsch"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Neo-Y2K",
+      "x": 348.5860595703125,
+      "y": -782.9447631835938,
+      "id": "56",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/d98b62fddd474e829af364a700ab6ef9.png",
+        "Description": "Revival ofY2K Aesthetic, with more emphasis on Eastern graphic design influences, saturated colors, and a convergence ofMetalheartforms.",
+        "Cluster": "Vaporwave",
+        "Start year": "Late 2010s",
+        "Degree": "5",
+        "URL": "https://cari.institute/aesthetics/neo-y2k"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 16.5
+    },
+    {
+      "label": "Internet Awesomesauce",
+      "x": 302.9527587890625,
+      "y": -391.911865234375,
+      "id": "42",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/ef76104c2ac94f6881cdd1acacff43bc.png",
+        "Description": "‘Awesome’ or ‘Epic’ visuals from the Early 10s, still in places up to the end of the decade\nRainbows, cats, unicorns, galaxies and space, lasers, junk food and 80s Airbrush motifs, used ironically. Meme aspects. ‘Random’ and absurd compositions and juxtapositions.",
+        "Cluster": "Vaporwave",
+        "Start year": "Very Late 2000s",
+        "End year": "Mid 2010s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/internet-awesomesauce"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Boho Chic",
+      "x": 1923.9481201171875,
+      "y": 903.9821166992188,
+      "id": "4",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/37e3f52d99324f27b5b682b75e51753a.png",
+        "Description": "Early-Mid 10s Tumblr Hipster Aesthetic. Triangles, geometric line motifs, mandalas, condensed hand-written block type, watercolours, Native American cultural appropriation, washed out colours, faux-analogue Instagram filtered imagery, galaxies, tapestries 'oneness'/spiritual themes",
+        "Cluster": "Genericana",
+        "Start year": "Very Early 2010s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/boho-chic"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Gen X Soft Club",
+      "x": -842.3125610351562,
+      "y": -567.1532592773438,
+      "id": "31",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/bdfc95662c26457a975da2a8db002f87.png",
+        "Description": "Contrary to contemporaneous Y2K Aesthetic, and also McBlingstyle of the early 2000s, Gen X Y/AC models in editorial fashion or artist marketing were much more \"natural\". You will see tons of nude lipstick, hair parted down the middle or natural textured hair, natural leathers, knee high boots, duster jackets, natural and muted colors - especially greens, beiges, tans, greys, and black. Design and fashion was moving from 60s revival into early 70s. Retro-futurism wasY2K Aesthetic, but Gen X YAC was more terrestrial. Its futurism was a mix of sterile and organic.McBlingwas a full blown disco revival, but here, we just see hints of the 70s. Depictions of city life through a colonialist lens. First wave gentrification. Urban life influenced graphic design, such as in the use of Helvetica as inspired by the NYC subway signs. The rise of a minimalist design revival.",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Early 1990s",
+        "End year": "Mid 2000s",
+        "Degree": "7",
+        "URL": "https://cari.institute/aesthetics/gen-x-soft-club"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 21.899999618530273
+    },
+    {
+      "label": "Superflat Pop",
+      "x": -397.284423828125,
+      "y": -371.04302978515625,
+      "id": "74",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/1fb19922ddb04830ad44249d86b77d0d.png",
+        "Description": "The commercial side to Japan's Superflat art movement, with artists like Takashi Murakami's bright and poppy graphics influencing fashion design, motion graphics, and in animation.",
+        "Cluster": "Superflat Pop",
+        "Start year": "Late 2000s",
+        "End year": "Early 2010s",
+        "Degree": "0",
+        "URL": "https://cari.institute/aesthetics/superflat-pop"
+      },
+      "color": "rgb(192,192,192)",
+      "size": 3
+    },
+    {
+      "label": "Pomo Faux Ruins",
+      "x": 455.4775695800781,
+      "y": 1063.3924560546875,
+      "id": "65",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/ed349ba7425b4d058167cc2b6dbe3692.png",
+        "Description": "Intentionally distressed and crumbling structures as an architecture storytelling element (ex. Best stores). Ranges from 'contemporary ruins', eg. then-current spaces with distressed, crumbling, ripped, or decayed elements, to 'ancient ruins', which specifically reference motifs from Classical antiquity.",
+        "Cluster": "Acidgrafix",
+        "Start year": "Late 1970s",
+        "End year": "Late 1980s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/pomo-faux-ruins"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Corporate Gen-X Cyber",
+      "x": -380.6610412597656,
+      "y": 4.663941860198975,
+      "id": "8",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/7b60036a288945bc853766ddfb09145e.png",
+        "Description": "A short-lived aesthetic, CGXC is composed of a mix of several movements from the late 1980s-onward; from the typographical experimentation of Grunge, the incorporation of computer-generated and manipulated imagery of April Greiman-style graphics, and a watered-down corporate-friendly version of both early 1990s rave flyer graphics and artistic experimentation with computer graphics (eg. Wired Magazine). It seemed to be the go-to style to appear contemporary, especially for companies in industries associated with the booming fields of the era (web, multimedia, telecommunications, biotech, etc.) Certain loose but still somewhat restrained fonts like FF Meta, Template Gothic, Rotis, Din are associated with this aesthetic, modified with Grunge-lite treatments like extended underlines, blur, translucency, displaced/distorted stroke, weights, and sizes. These are paired with images that are sometimes heavily-saturated, warped, blurred (motion blur especially), overlaid on-top of each other with various photoshop effects applied. Recurring colors are 'acid/infrared vision' versions of green, yellow, orange, and purple.",
+        "Cluster": "Corporate Gen-X Cyber",
+        "Start year": "Early 1990s",
+        "End year": "Late 1990s",
+        "Degree": "4",
+        "URL": "https://cari.institute/aesthetics/corporate-gen-x-cyber"
+      },
+      "color": "rgb(211,179,176)",
+      "size": 13.800000190734863
+    },
+    {
+      "label": "McBling",
+      "x": 1291.4183349609375,
+      "y": 6.296336650848389,
+      "id": "46",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/d21f332e90af4ef596b87931b9a7259a.png",
+        "Description": "The period from approx. 2000 to 2008, a hard shift away from the minimalist futurism of theY2K Aestheticera towards maximalist remixes of mainly 1970s and early 1980s trends & motifs. Aspirational luxury in all forms, tattoo motifs, oversized designer glasses, celebutantes, designer ripped jeans, pink hummers, bedazzled electronics, fashion phones, McMansions, nihilistic & hedonistic overtones, overly-flourishy vector art, grunge effects applied to 'gothic' fonts, reality tv shows, Paris Hilton, tuscan-inspired-everything in home furnishings, luxury trips around the world, excessive overbuilding of homes (global housing bubble), designer dogs, dubai, bling, spinning rims, trucker hats, von dutch, ed hardy, spray tans, tracksuits, Juicy Couture, american flag inspired clothing post-9/11.",
+        "Cluster": "Wacky Pomo",
+        "Start year": "Very Early 2000s",
+        "End year": "Very Late 2000s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/mcbling"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Radical Surrealism",
+      "x": 309.358154296875,
+      "y": 635.877197265625,
+      "id": "69",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/c0c11508540f4cdeb80f15d117abe591.png",
+        "Description": "Emerged in the very late 1960s and peaked in the 1970s, when the Pop Art movement was influencing graphic, product, furniture, and interior design. The main proponents of this style came out of the Italian radical design movement; groups like Studio Alchimia andMemphis-Milanoto breakout in the 1980s. 'Think Big', a chain selling oversized 'Pop' object versions of everyday household items, also emerged from this zeitgeist.",
+        "Cluster": "Acidgrafix",
+        "Start year": "Late 1960s",
+        "End year": "Early 1980s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/radical-surrealism"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Contempo Eclectic",
+      "x": -1603.1851806640625,
+      "y": 1065.8670654296875,
+      "id": "7",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/3cb1fc28d069441c9e6deb9eb1b84722.png",
+        "Description": "An eclectic mishmash in the wake of the postmodern design explosion in the early 1980s. The playfulness of New Wave/Pacific Punk Wavegraphic design, renewed interest in furniture design experimentation post-Memphis Group/Eurostyle/Neo-Folk,Deco-Luxe, and the commercial popularization of abstract & surrealist art beginning in the late 1970s and early 1980s are all incorporated in this aesthetic.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Mid 1980s",
+        "End year": "Mid 1990s",
+        "Degree": "4",
+        "URL": "https://cari.institute/aesthetics/contempo-eclectic"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 13.800000190734863
+    },
+    {
+      "label": "Global Village Coffeehouse",
+      "x": 1474.1455078125,
+      "y": -1361.626220703125,
+      "id": "32",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/f44ea2a14e0f4a6abd8ca9f312e88078.png",
+        "Description": "A network of aesthetics emerging in the late 1980s, some an evolution of prog-punk-zolo memphis-y squiggles, keith haring, woodcut revival, a \"return-to-the-natural\" handrawing movement, reaction against the computer aided design boom, late 80s environmentalism revival, etc. Still very postmodern in the sense of appropriating seemingly endless prior artistic movements, mainly for commercial/corporate purposes. Peaks in the mid 1990s, falling out of favor later on as the pendulum swung back to the minimalism/tech/clean vibes ofY2K Aesthetic&Gen X Soft Club. It's very wide-ranging and could be split into many sub-groups, but this format seems to work better. Common motifs include: woodcuts, 'tribal/ancient imagery and iconography', moons, suns, spirals, hands, eyes, stars, simple styled flowing/curvy figures, 'aroma swirls', coffee cups, natural elements like trees/waves/landscapes, earth tones, hand-drawn look, 'airbrushed dirty look', the earth/globe, hearts, colorful gradated backgrounds, rough irregular borders & lines. Overlaps with 'pop surrealism' from the same time period, though GVC is usually trying to convey 'sincerity' as much it is needed to sell something; sorta faux-naive, down to earth, warm.",
+        "Cluster": "Global Village Coffeehouse",
+        "Start year": "Late 1980s",
+        "End year": "Mid 1990s",
+        "Degree": "10",
+        "URL": "https://cari.institute/aesthetics/global-village-coffeehouse"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 30
+    },
+    {
+      "label": "Mission School",
+      "x": 946.5336303710938,
+      "y": -956.82373046875,
+      "id": "52",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/31456b55dd6d4a6b8893f90252cfb76c.png",
+        "Description": "Mainly muted colors, faux-weathered textures and reappropriation of midcentury / Americana imagery. Common mediums include collage and painting. This style has been quite difficult to pin down, and the gallery contains some examples that may be re-classified at some future point, along with some that seem to have influenced the style (eg. Basquiat).",
+        "Cluster": "Global Village Coffeehouse",
+        "Start year": "Mid 1990s",
+        "End year": "Early 2000s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/mission-school"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Industrial Gothic",
+      "x": 1476.6287841796875,
+      "y": 1060.783203125,
+      "id": "41",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/b552076fdbf94b9ea341f11e3a3df26c.png",
+        "Description": "Dark, moody industrial imagery of the late 80s and 90s. Wires, cabling, piping. Peeling paint, grunge-precursor aspects, strange dark machines, often monochrome and moodily lit. Darker variant ofFactory PomoandWhimsicraft",
+        "Cluster": "Genericana",
+        "Start year": "Late 1970s",
+        "End year": "Late 1990s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/industrial-gothic"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Indiecraft",
+      "x": 1390.50048828125,
+      "y": 1011.0569458007812,
+      "id": "38",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/9bb523bb09d04f5593158fb327ffcf4b.png",
+        "Description": "The hipster aesthetic of kooky \"charming\" overauthentic visuals, handcrafted imagery, and music videos with puppets in them.",
+        "Cluster": "Genericana",
+        "Start year": "Mid 2000s",
+        "End year": "Mid 2010s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/indiecraft"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Mid Century Medieval",
+      "x": -1104.3931884765625,
+      "y": 1075.4169921875,
+      "id": "50",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/bd3855f6b720463fa9caa5cf01283d47.png",
+        "Description": "The very kitchsy revival of Medieval and Renaissance motifs & cultural touchstones in the context of the 1950s-on economic boom. Expressed in the emergence of 'Renaissance Faires', Tudor-style and Fairytale suburban architecture, Sword-and-Sorcery movies, Steak & Ale restaurant chain, themed hotels. Additionally some examples are from the Hippie variant of this revival, in the 1960s-70s.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Mid 1950s",
+        "End year": "Mid 1970s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/mid-century-medieval"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Decoplex",
+      "x": -1092.3048095703125,
+      "y": 617.7279663085938,
+      "id": "16",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/a1d719b87cae45b6b87b47a3d6c46b18.png",
+        "Description": "1990s 'third wave' of art deco revival motifs, influenced more by the 1930s-40s golden age of Hollywood, early air travel, WPA murals, and a playful, exaggerated version of art deco tropes. Less focused on luxury, and less restrained than the art deco revival of the 1980s. (Deco-Luxe)",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Early 1990s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/decoplex"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Gen-X Home",
+      "x": -1163.5338134765625,
+      "y": -1447.3824462890625,
+      "id": "30",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/a4830288b04149f89fed9862a1eb6b77.png",
+        "Description": "The softer home marketing segment version ofCorporate Gen-X Cyber",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Late 1990s",
+        "End year": "Early 2000s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/gen-x-home"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Cyberbougie",
+      "x": 141.2786102294922,
+      "y": 1078.2568359375,
+      "id": "13",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/1473ffca357745a0a39411bd3bf4dc0b.png",
+        "Description": "Corporate Memphiswith a cyber twist. Monospaced fonts, gradients, black backgrounds and a huge emphasis on \"sleekness\". Seen largely in branding for tech startups and websites.",
+        "Cluster": "Acidgrafix",
+        "Start year": "Very Late 2010s",
+        "Degree": "4",
+        "URL": "https://cari.institute/aesthetics/cyberbougie"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 13.800000190734863
+    },
+    {
+      "label": "Synthwave",
+      "x": 302.9527587890625,
+      "y": -198.240478515625,
+      "id": "76",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/8ca58dbe7a9f4bc581be056e27f1005f.png",
+        "Description": "The tongue-in-cheek oversaturated 1980s-revival aesthetic also sometimes called \"Outrun\" or \"Retrowave\". Heavy use of neon colors, airbrush-style imagery and laser grids.",
+        "Cluster": "Vaporwave",
+        "Start year": "Early 2010s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/synthwave"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Corporate Grunge / Grunge™",
+      "x": -613.8809204101562,
+      "y": -108.84114837646484,
+      "id": "9",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/4003797b3eb44be9bced62820a9cc373.png",
+        "Description": "The ubiquitous 'corporate' grunge look derived from the hype surrounding the Pacific Northwest 'grunge' music scene, the work of graphic designers such as David Carson, Neville Brody & Carlos Segura, and magazines like Raygun & Emigre.",
+        "Cluster": "Corporate Gen-X Cyber",
+        "Start year": "Very Late 1980s",
+        "End year": "Mid 1990s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/corporate-grunge-grunge"
+      },
+      "color": "rgb(211,179,176)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Curly Girly",
+      "x": 815.3048095703125,
+      "y": -194.19065856933594,
+      "id": "12",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/62fe65f374344fedaadb456f35849f18.png",
+        "Description": "Ornate, playful, silly & frilly aesthetics marketed at young girls. The 1990sGroovivalaesthetic is a big influence here, along with the popularity of 'Diva' motifs, 2000s celebrity & pop culture, and some of the aspirational wealth/fame popular inMcBling.",
+        "Cluster": "Wacky Pomo",
+        "Start year": "Late 1990s",
+        "End year": "Mid 2000s",
+        "Degree": "4",
+        "URL": "https://cari.institute/aesthetics/curly-girly"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 13.800000190734863
+    },
+    {
+      "label": "Indie Sleaze",
+      "x": -1276.650390625,
+      "y": 1174.869384765625,
+      "id": "39",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/658392432a2e4c9f82367a90002d76c3.png",
+        "Description": "Mid-late 2000s indie, sleazy sexy vibes, post-electroclash vague 70s-80s revival melange. American Apparel, electro-bands & the MySpace music scene, bloghaus, that colorful blocky handrawn lettering, the NYC party scene & photography, shutter shades.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Early 2000s",
+        "End year": "Very Early 2010s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/indie-sleaze"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Nu-Brutalism",
+      "x": -243.08042907714844,
+      "y": 1001.5277709960938,
+      "id": "59",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/72e25268c68045f3bf0ca82747dfbbc0.png",
+        "Description": "Neo-Swiss/International Style of design: often with heavily contrasting colors, various Grotesque typefaces, and emphasis on structure of typography.",
+        "Cluster": "Acidgrafix",
+        "Start year": "Early 2010s",
+        "Degree": "6",
+        "URL": "https://cari.institute/aesthetics/nu-brutalism"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 19.200000762939453
+    },
+    {
+      "label": "Soft Colonial Wanderlust",
+      "x": 1756.2237548828125,
+      "y": 807.1464233398438,
+      "id": "72",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/18a1ec6be7084d749ada05b4a2650aee.png",
+        "Description": "Photos of people spanning from the Victorian era to the 1940s (at most, not too into the Fifties) culture/aesthetics appropriated for modern day consumption. Maps, wanderlust and leisure travel via boat or small aeroplane. Chinoiserie/Japonisme and general Orientalism (think blue on white Ming Dynasty pottery used exclusively by white people). Carnivals and boardwalks, mail art, Neutral Milk Hotel's/Arcade Fire album covers, Baroque Pop, privileging of nature/ecology in art (throwbacks to Art Nouveau/Arts and Crafts Movement), sense of whimsy, hot air balloons, magical ways of looking at travel, phonographs, typewriters and general machinery of the decade that's on the verge of modernity being used today, but NOT exactly steampunk, floral wallpapers with crowning seen in cafe's that serve New American cuisine.",
+        "Cluster": "Genericana",
+        "Start year": "Very Late 1980s",
+        "End year": "Mid 2010s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/soft-colonial-wanderlust"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Hipness Purgatory",
+      "x": 1106.4068603515625,
+      "y": 1028.8353271484375,
+      "id": "37",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/60bc995d7b8c4b868a0fed59fe2756e2.png",
+        "Description": "Things associated with the \"hipster\" movement of the late Bush & early-mid Obama years, both in the first wave and the backlash. Characterized by loose drawings, feeling handcrafted with everyday objects, an ironic tone, and a \"twee\" retro atmosphere.",
+        "Cluster": "Genericana",
+        "Start year": "Early 2000s",
+        "End year": "Early 2010s",
+        "Degree": "4",
+        "URL": "https://cari.institute/aesthetics/hipness-purgatory"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 13.800000190734863
+    },
+    {
+      "label": "Cyberdelia",
+      "x": 1459.142822265625,
+      "y": -90.5393295288086,
+      "id": "14",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/1490dad1790a4c53a13ff21d002249bd.png",
+        "Description": "Named for the club in the film, Hackers (1995), this is psychedelic side ofEarly Cyber&Silicon Dreams, featuring visual elements like kaleidoscopic palettes, acid colors, fractal forms, and expressive early 3D typography. Can be seen in early rave flyers, media associated with late 80s-early 90s emerging cyberculture.",
+        "Cluster": "Wacky Pomo",
+        "Start year": "Very Late 1980s",
+        "End year": "Mid 1990s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/cyberdelia"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Eco-Beige",
+      "x": 1032.6619873046875,
+      "y": -1153.1119384765625,
+      "id": "21",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/6556bbd76e87439baa79b952f1c4131c.png",
+        "Description": "Stripped-down, eco-oriented early 1990s aesthetic. There's something about this style, where it seems like an attempt to distance itself from 1980s excess, and seem more stripped down, unpretentious, eco-friendly, and down to earth. Beige, soft natural tones, twigs, raffia straw, linens, wood, exposed surfaces, textured walls. Not usually super-detailed or ornate, using simple handcrafted forms or just natural forms.",
+        "Cluster": "Global Village Coffeehouse",
+        "Start year": "Very Late 1980s",
+        "End year": "Mid 1990s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/eco-beige"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Silicon Dreams",
+      "x": -67.34516143798828,
+      "y": -311.97735595703125,
+      "id": "71",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/1ff09b72258e47d8ad8763668c871e5c.png",
+        "Description": "The surrealist aesthetics of the early days of 3D animation.",
+        "Cluster": "Vaporwave",
+        "Start year": "Late 1980s",
+        "End year": "Late 1990s",
+        "Degree": "4",
+        "URL": "https://cari.institute/aesthetics/silicon-dreams"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 13.800000190734863
+    },
+    {
+      "label": "Utopian Scholastic",
+      "x": 1032.6619873046875,
+      "y": -1346.7833251953125,
+      "id": "80",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/2a4d2ca726f042adbe7db95bd8d33875.png",
+        "Description": "In some ways this aesthetic is the 'kids version' ofFrasurbane, with an emphasis on scholastic endeavors, 'edutainment', and an 'end-of-history' approach to learning. It uses the same classical and 'timeless' typography and imagery withFrasurbane, adding in the aesthetic of 'stock photography collage' depicting the most basic and identifiable depictions of forms and concepts for quick comprehension. This reliance on this style of collage is predicated on two factors in the era; the proliferation of stock photography collections, and the development of desktop publishing & graphics-editing software in the 1980s.Note: The term 'Utopian Scholastic', was derived from the Facebook group of it's origin, 'Utopian Scholastic Designs from a pre-9/11 World', created by Suze Huldt. Some images shown here are sourced & curated from that group, and some are CARI member scans & finds.",
+        "Cluster": "Global Village Coffeehouse",
+        "Start year": "Very Late 1980s",
+        "End year": "Late 1990s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/utopian-scholastic"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Pacific Punk Wave",
+      "x": -1618.5950927734375,
+      "y": 466.7807312011719,
+      "id": "60",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/3aafa4f75c2c48cc830dd60b7c364c39.png",
+        "Description": "Graphic style that emerged from the punk, pacific wave, swiss new wave, and italian radical design movements of the 1970s and 80s. There's also some influence of the '1950s diner/googie/populuxe' aesthetic sometimes, epitomized by the popularity of 'Heaven', a novelty kitsch store in LA. These styles were very influential on the '80s look' as it's commonly known in the 2010s revival.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Mid 1970s",
+        "End year": "Early 1980s",
+        "Degree": "9",
+        "URL": "https://cari.institute/aesthetics/pacific-punk-wave"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 27.299999237060547
+    },
+    {
+      "label": "Early Cyber",
+      "x": -852.9078979492188,
+      "y": 565.1461791992188,
+      "id": "20",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/51b9eba40f6b436f9c5b853cd8756c87.png",
+        "Description": "April Greiman, Susan Kare, Emigre, Pacific Wave, early rave flyer graphics, The Mind's Eye, harsh pixelated thermographic imagery with warped fonts made newly possible through the proliferation of the first wave of desktop publishing and image manipulation software. (early 80s to ~1993)",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Late 1980s",
+        "End year": "Early 1990s",
+        "Degree": "6",
+        "URL": "https://cari.institute/aesthetics/early-cyber"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 19.200000762939453
+    },
+    {
+      "label": "Memphis-Milano",
+      "x": -1603.1851806640625,
+      "y": 825.0864868164062,
+      "id": "48",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/0fe0486901cc43ee840213bf0aa81790.png",
+        "Description": "Designs of Memphis Group, Studio Alchimia, and those inspired by their geometric, colorful designs across the world in the 1980s.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Early 1980s",
+        "End year": "Early 1990s",
+        "Degree": "4",
+        "URL": "https://cari.institute/aesthetics/memphis-milano"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 13.800000190734863
+    },
+    {
+      "label": "Dollar Store Vernacular",
+      "x": 182.4316864013672,
+      "y": 709.1580810546875,
+      "id": "19",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/d3cf00f9b7364be5a9192c7f38785400.png",
+        "Description": "The perennial ecosystem of \"cheap\" or \"outsider\" design. Designs found at dollar stores, knock-off products; eg. designs by those outside of the 'design ecosystem'. Sometimes these include things like: flyers made for a school event with word art, graphics for spammy internet sites/ads, personal websites.",
+        "Cluster": "Acidgrafix",
+        "Start year": "Very Late 1960s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/dollar-store-vernacular"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Pixelscape",
+      "x": -1276.650390625,
+      "y": 975.9642944335938,
+      "id": "63",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/fa9492acb42e4799ac61efea7bda90b1.png",
+        "Description": "Ubiquitous on the early web. The often-isometric aesthetic of lush, elaborate pixel art and similar motifs in web design and illustration.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Very Early 2000s",
+        "End year": "Mid 2000s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/pixelscape"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Zen-X",
+      "x": -1331.2578125,
+      "y": -1350.546630859375,
+      "id": "88",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/9c8264604c30441382c55d700f5cd163.png",
+        "Description": "Popular with Gen-X and some Baby Boomers; this aesthetic emerged in the early 1990s, part of the 'natural-organic' shift away from 1980s excess and a resurgent wave of environmentalism (eg. Sting in the rainforest, the corporate eco-responsibility trend made famous by companies like The Body Shop, the Nature Company, etc.). This was combined with a trend towards minimalism and renewed interest in Japanese architecture and design concepts.",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Early 1990s",
+        "End year": "Early 2000s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/zen-x"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Neon Ooze",
+      "x": 1053.4613037109375,
+      "y": -283.8642578125,
+      "id": "54",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/793d4d79f60c4f0882cefc3d929dcc8b.png",
+        "Description": "The ubiquitous neon ooze motif that proliferated in kids (and sometimes adult) media in the 1980s & 1990s. Mad scientists, toxic waste, sludge, slime, ooze, blobs, globs, and general gross-out content. Probably tied to some general societal anxiety about the environment in the 1980s.Note: Name sourced from the Facebook group, 'Neon Ooze/Surf Shack' created by Karl Kraft. Some examples are also sourced from that group, and some are from our internal CARI research.",
+        "Cluster": "Wacky Pomo",
+        "Start year": "Late 1980s",
+        "End year": "Early 1990s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/neon-ooze"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Y2K Aesthetic",
+      "x": -1629.759521484375,
+      "y": -1719.4805908203125,
+      "id": "87",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/fb7c1b7f05f446a2bae6d87c164fba7d.png",
+        "Description": "A time when the future was tight leather pants, silver eyeshadow, shiny clothing, oakleys, gradients, and blobby electronics.",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Early 1990s",
+        "End year": "Very Early 2000s",
+        "Degree": "9",
+        "URL": "https://cari.institute/aesthetics/y2k-aesthetic"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 27.299999237060547
+    },
+    {
+      "label": "Googie Kitsch",
+      "x": -759.2998657226562,
+      "y": 940.8564453125,
+      "id": "33",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/d215afad2e5444b997f68dbcdfd6dbfc.png",
+        "Description": "Revival of the playful side ofmid-century moderndesign (eg. colorful George Nelson clocks, boomerang tables),Googiemotifs, general 1950's advertising vernacular & pop culture kitsch. Emerged in hipPacific Punk Wavedesign circles mainly in the late 1970s, peaking in various forms & fields throughout the late 20th century, until petering out by the early 2000s. The slightly later 'lounge' revival (late 1980s/early 1990s) while having overlapping elements, could be seen as a distinct aesthetic since it pulls from some different sources (1960s bachelor pad style, exotica & tiki culture, animal prints).Overlaps withDiner Kitsch, though that aesthetic mainly pulls from older American diners from the 1930s-1950s built in theStreamline Modernestyle.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Very Late 1970s",
+        "End year": "Very Early 2000s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/googie-kitsch"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Austurbane",
+      "x": 647.1043701171875,
+      "y": 917.60302734375,
+      "id": "2",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/230926f8acbb43be8909b9c950fa3b0e.png",
+        "Description": "Urbane variety ofCorporate Memphis. Serif fonts, muted colours. Black, beige, copper, bronze and gold. Large amounts of whitespace, minimalism but 'classy', incorporating 'zen' elements in materials used. Product photography, whilst still using similar layouts and perspectives (top-down, isometric) asCorporate Memphisphotography, generally has a more staged feel, with sharper, more dramatic lighting. Plant and branch shadows, prismatic or refractive elements scattering the light. Natural materials, granite and marble. Often rough stones. Fabric.",
+        "Cluster": "Acidgrafix",
+        "Start year": "Late 2010s",
+        "Degree": "5",
+        "URL": "https://cari.institute/aesthetics/austurbane"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 16.5
+    },
+    {
+      "label": "Whimsicraft",
+      "x": 946.5336303710938,
+      "y": -857.3709716796875,
+      "id": "85",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/83f68894fcfe420cbd618f5fb374746f.png",
+        "Description": "Part of the folk art and furniture revival of the 1980s, along with a new interest in collage, craft, repurposing industrial/found objects. It's part of the 'down to earth', folksy, colorful 'art fair' atmosphere of the time period. Formerly called 'DIY Handmade Folk Artsy 80s-90s', renamed in Sept 2021.",
+        "Cluster": "Global Village Coffeehouse",
+        "Start year": "Mid 1980s",
+        "End year": "Mid 1990s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/whimsicraft"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Gay Nineties Revival",
+      "x": 1390.50048828125,
+      "y": 1110.5093994140625,
+      "id": "28",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/947c4e2be69449e89deb2a324f9c2049.png",
+        "Description": "Revival of the aesthetics of the 1890s (or \"Gay Nineties\"), common from the late 60s to late 70s. Common signifiers: Use of ferns as indoor decor, fake Tiffany lamps, use of brass and gold accents with medium-stained oak woods, \"old timey\" letttering. Color scheme: Brown, orange, and old gold, often with prominent maroon and light lime green accents. Prominent designers: Herb Lubalin.",
+        "Cluster": "Genericana",
+        "Start year": "Late 1960s",
+        "End year": "Late 1970s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/gay-nineties-revival"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Jumbled Font",
+      "x": -927.0243530273438,
+      "y": 844.0208129882812,
+      "id": "43",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/5deaf31d6817455c8b1d13add2101322.png",
+        "Description": "Potentially emerging from the Pacific Punk Wavemovement, and influential/contemporaneous with Grunge, this style is specific to typography. Stretched letters in every direction,jumbled, playful mixing offonts & colors, objects substituted for letters, calligrams, etc. Note this is distinct from the more dirty, grungy 'ransom note collage' look.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Mid 1980s",
+        "End year": "Mid 1990s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/jumbled-font"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Live Laugh Love",
+      "x": 1756.2237548828125,
+      "y": 1000.8173828125,
+      "id": "45",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/bf4236f3b0234713ab26f31d350d8f43.png",
+        "Description": "Wood grain, brush script fonts, and snarky slogans about how often you drink wine. Still going strong in suburban homes worldwide.",
+        "Cluster": "Genericana",
+        "Start year": "Very Early 2010s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/live-laugh-love"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Electroclash",
+      "x": -1219.231689453125,
+      "y": 691.0088500976562,
+      "id": "22",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/9d6ffeec7c3a447e98d1bfc814c614ba.png",
+        "Description": "Liquid Sky revival, loud and clashing makeup palettes, androgynous glam fashion, revival of somePacific Punk Wavegraphic design.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Very Late 1990s",
+        "End year": "Early 2000s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/electroclash"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Corporate Hippie",
+      "x": 1095.770263671875,
+      "y": -149.5201416015625,
+      "id": "10",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/ed2ac83556914ac9a07d440bce92938f.png",
+        "Description": "Appropriation of 'Hippie' culture, motifs & psychedelic graphic styles for corporate applications.",
+        "Cluster": "Wacky Pomo",
+        "Start year": "Late 1960s",
+        "End year": "Mid 1970s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/corporate-hippie"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Deco-Luxe",
+      "x": -927.0243530273438,
+      "y": 1037.692138671875,
+      "id": "15",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/228bd22793b8410b8e70dffba38f02c4.png",
+        "Description": "A melange of Art Deco & Streamline Moderne revivals that emerged mainly in the mid 1970s; and peaked in the 1980s and early 1990s. This style differs from the earlier Art Deco revival in the 1970s,Disco Deco, as it's more focused on the luxury side of Art Deco & the Roaring '20s (tieing into the general cultural milleu of the go-go 80s).",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Early 1980s",
+        "End year": "Late 1980s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/deco-luxe"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Preschool Pop",
+      "x": 309.358154296875,
+      "y": 1052.0089111328125,
+      "id": "66",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/387fe69f0dc34453a8376ec7ccde136b.png",
+        "Description": "Crayons, pencils, the classic little kid drawing style (stick figures, house, sun, tree, etc.), oversized versions of toys, esp. alphabet blocks.",
+        "Cluster": "Acidgrafix",
+        "Start year": "Very Early 1990s",
+        "End year": "Very Early 2000s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/preschool-pop"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Teenpunk",
+      "x": -613.8809204101562,
+      "y": 207.83763122558594,
+      "id": "77",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/4dcc48c4b41f42f69db45cdea705424c.png",
+        "Description": "The millennial and gen-Z iteration of edgy grunge aesthetics, associated closely with \"pop punk\" and the store Hot Topic.",
+        "Cluster": "Corporate Gen-X Cyber",
+        "Start year": "Late 1990s",
+        "End year": "Very Early 2010s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/teenpunk"
+      },
+      "color": "rgb(211,179,176)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Supergraphic Ultramodern",
+      "x": -1705.22705078125,
+      "y": -1054.923828125,
+      "id": "75",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/88e53769f8fb483d8db86b7f17277a13.png",
+        "Description": "Plastics, curves, plush materials, rainbows, inflatables, shiny metals, fibreglass, prefab everything, supergraphics galore, pleasure furniture, helvetica, icons. This style was a huge influence onY2K Aestheticin the 1990s.",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Late 1960s",
+        "End year": "Late 1970s",
+        "Degree": "5",
+        "URL": "https://cari.institute/aesthetics/supergraphic-ultramodern"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 16.5
+    },
+    {
+      "label": "Millennium Disco",
+      "x": -1317.6583251953125,
+      "y": -1007.5509643554688,
+      "id": "51",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/d92811490e134590b7e7c4e6dcd8119f.png",
+        "Description": "The slick, technologically-infused gen-X disco revival. Bauhaus typography and 70s-throwback photography are common.",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Late 1990s",
+        "End year": "Early 2000s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/millennium-disco"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Laser Grid",
+      "x": 99.26618194580078,
+      "y": -926.8897094726562,
+      "id": "44",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/418ce15d90bb4885a611b90d71756a80.png",
+        "Description": "The 80's high-tech design style that later became a main component in theVaporwave,Synthwave, etc. aesthetics of the early 2010s. PrecedesPacific Punk Wavestyle which is mainly prevalent in the late 1980s. Laser grids, glass blocks, sleek metallic surfaces, reflective glass (think state-of-the-art 80's corporate office park) glowing neon in a high-tech application (sometimes referencing art deco), chromed-out airbrush effects, robots, simple pomo shapes and compositions.",
+        "Cluster": "Vaporwave",
+        "Start year": "Very Early 1980s",
+        "End year": "Very Late 1980s",
+        "Degree": "5",
+        "URL": "https://cari.institute/aesthetics/laser-grid"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 16.5
+    },
+    {
+      "label": "Renaissance Revival",
+      "x": -1219.231689453125,
+      "y": 544.4468383789062,
+      "id": "70",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/bd358fb7e1764793a1cafd66fbc1a541.png",
+        "Description": "1990s and millennium ren faire, antique gothic, Shakespearean/Elizabethan, Mediaeval, Renaissance Greco-Roman art interpretation, magick, and faerie tale cultural revival. Most often mixed with obvious anachronisms. Runway shows *inspired by* Renaissance fashion; a reprinting of Shakespeare that utilizes Elizabethan *style* design elements; 90s/millennium formal attire with faerie tale inspiration.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Very Early 1990s",
+        "End year": "Late 1990s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/renaissance-revival"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Cassette Futurism",
+      "x": -1190.73193359375,
+      "y": -1080.8316650390625,
+      "id": "6",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/3282219e0af447b69f4860a4c4cf47b4.png",
+        "Description": "The 70s-and-80s bulky, angular scifi & hardware aesthetic. Synonymous with Japan's bubble. Ex: Syd Mead",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Mid 1970s",
+        "End year": "Late 1980s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/cassette-futurism"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Graffiti Pop",
+      "x": -613.8809204101562,
+      "y": 61.275535583496094,
+      "id": "34",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/2241f9ee951c400796521e1f09c72dcd.png",
+        "Description": "First wave of corporate appropriation of Graffiti culture. Typically includes urban streetscapes & iconography contemporary to the time period (eg. trash cans, brick walls, chain link fencing, street lamps, sidewalks, industrial elements, general 'urban decay'). It's also associated with that eras' portrayal of street, hip hop, & punk culture.",
+        "Cluster": "Corporate Gen-X Cyber",
+        "Start year": "Early 1980s",
+        "End year": "Mid 1990s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/graffiti-pop"
+      },
+      "color": "rgb(211,179,176)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Bubblegum Bling",
+      "x": 1180.3880615234375,
+      "y": -357.145263671875,
+      "id": "5",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/b733e25d76a84a6783da17eb33de49ab.png",
+        "Description": "Revival ofMcBling, heavily influenced by PC Music, named for it's association with some artists in the 'Hyperpop' scene. Largely misattributed as 'y2k' on platforms like Instagram",
+        "Cluster": "Wacky Pomo",
+        "Start year": "Very Late 2010s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/bubblegum-bling"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Blob World",
+      "x": 470.6771240234375,
+      "y": -295.0762023925781,
+      "id": "3",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/4ffcc1b712d047c785aafad0fae98d96.png",
+        "Description": "The wave of motion design and illustration that makes heavy use of strange, elaborate 3D renders to create playful textures, strange/uncanny forms, surrealist compositions, and occasionally unnerving body horror.",
+        "Cluster": "Vaporwave",
+        "Start year": "Mid 2010s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/blob-world"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Neo-Vectorheart",
+      "x": 99.26618194580078,
+      "y": -638.9998779296875,
+      "id": "55",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/b413bd9a46804647886448c873a8d43b.png",
+        "Description": "A half-revival of circa-2000Vectorheartincorporated with maximalist \"gamer-grunge\". All about 45-degree angles, punchy colors, and contrast.",
+        "Cluster": "Vaporwave",
+        "Start year": "Very Late 2010s",
+        "Degree": "5",
+        "URL": "https://cari.institute/aesthetics/neo-vectorheart"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 16.5
+    },
+    {
+      "label": "Whimsigothic",
+      "x": -1346.157958984375,
+      "y": 764.2898559570312,
+      "id": "86",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/7d2f9b86b6ab4279b5296adb9ba5f253.png",
+        "Description": "This aesthetic was contemporaneous with the peak popularity of gothic-inspired pop/rock music, Tim Burton, and the graphic design work of Margo Chase, Vrontikis, and a bit of Vaughan Oliver. Very popular in the fields of furniture, product, and interior design.Note: This aesthetic was originally titled 'Whimsical Mystical Gothic Celestial'.",
+        "Cluster": "Pacific Punk Wave",
+        "Start year": "Late 1980s",
+        "End year": "Late 1990s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/whimsigothic"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Ultramodern Revival",
+      "x": -1331.2578125,
+      "y": -1544.21826171875,
+      "id": "78",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/34384b83c48a47509354326a2c9ddbbd.png",
+        "Description": "Very late 90s - early 2000s revival ofSupergraphic Ultramodern. Supergraphics, bright color palettes, and sleek forms mix withMillennium Discokitsch, evolving from theGen X Soft Clubnostalgia for the 1970s.",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Late 1990s",
+        "End year": "Mid 2000s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/ultramodern-revival"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "UrBling",
+      "x": -613.8809204101562,
+      "y": -302.51251220703125,
+      "id": "79",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/f4af256b216b4adb9870c8fd1bc7b6a7.png",
+        "Description": "'Urban-McBling' but not as heavy with the Bling aspect, though similar in the maximalism, visual excess, and some influences. Silhouetted streetlights, power lines, buildings, highways, grungy effects, wings, crests, flames, tribal tattoo-looking motifs, paint splatters/drips, and sepia toned/reds yellows orange. Blacks and Greys, slab san-serifs, graffiti and stencil motifs & fonts, gothic fonts. Motifs derived from 'Kustom Kulture' also seem to play a part in this style. Tied the relatively strict gender roles in marketing and wider culture at the time, as this could be seen as the 'masculinized' version ofMcBling.",
+        "Cluster": "Corporate Gen-X Cyber",
+        "Start year": "Very Early 2000s",
+        "End year": "Very Late 2000s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/urbling"
+      },
+      "color": "rgb(211,179,176)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Vector Minimalism",
+      "x": 436.2847595214844,
+      "y": 709.1580810546875,
+      "id": "83",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/f58aab744e8d4fe4bfd1387997819f66.png",
+        "Description": "This was a minimalistic, quietish era, defined by the decrease in Skeumorphism of this era towards a \"flat\" aesthetic that in manys was heavily referential of Mid-Century Modernism. It started in 2012, became the dominant aesthetic of silicon valley in mid-2013, and faded out to some extent by the late 2010s. Examples: \"Flat\" anything; paring down the naturalistic tendencies ofHipness Purgatoryand replacing them with an angularity that both recalls Mid-century designs and anticipates developments inCorporate Memphis; iOS 7; geometric sans serif fonts, particularly combined with Bodoni or Didot-esque bold serif display fonts (common 2015-present)",
+        "Cluster": "Acidgrafix",
+        "Start year": "Early 2010s",
+        "End year": "Late 2010s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/vector-minimalism"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Factory Pomo",
+      "x": 1588.499267578125,
+      "y": 903.9821166992188,
+      "id": "23",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/862be56d16254d7597e851ecdc7bac02.png",
+        "Description": "A design aesthetic that coalesced in the late 1980s, merging the clean, simple, referential forms ofMemphis-Milano, new visual languages emerging from the CAD technology boom, and revivals of Bauhaus, Russian Constructivism, WPA graphics, and general industrial vernacular from the 1900s-1940s.",
+        "Cluster": "Genericana",
+        "Start year": "Late 1980s",
+        "End year": "Early 1990s",
+        "Degree": "3",
+        "URL": "https://cari.institute/aesthetics/factory-pomo"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 11.100000381469727
+    },
+    {
+      "label": "Rad Dog / Neon Surf",
+      "x": 1053.4613037109375,
+      "y": -430.4263000488281,
+      "id": "68",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/cd531ca0bacf403f81b14c8f5a6210cd.png",
+        "Description": "Neon paint splatters, hypercolors, tribal motifs, and \"radical\" surf / skate imagery. Pioneered by edgy, mold-breaking teen-marketed apparel and equipment brands.Note: Most images, along with the term, are sourced & curated from the Facebook group, Neon Ooze/Surf Shack, created by Karl Kraft.",
+        "Cluster": "Wacky Pomo",
+        "Start year": "Late 1980s",
+        "End year": "Early 1990s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/rad-dog-neon-surf"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Frasurbane",
+      "x": 715.9810180664062,
+      "y": -1031.4832763671875,
+      "id": "26",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/eaa51d58754740a58b5ecd7e3ecfe51f.png",
+        "Description": "Frasurbane (originally titled '90s Urbane) draws from the breakthroughs made by the 1990s Grunge movement, but filtered through the lens of a more conservative and aging Baby Boomer population that was settling down, becoming more wealthy and suburban. Serif fonts abound, accentuated with underlining, italicization, and various weights. These are usually coupled with warm sepia or black-and-white images of 'timeless'/classical representations of basic concepts (sometimes in a surrealist manner), often in soft-focus and featuring heavily-staged product photography. Astrolabes, globes, 'Vitruvian Man' style diagrams, textured paper, Neo-traditional architecture, relatively 'realistic' drawn representations of various traditional objects, plants, and animals (think Victorian-era scientific illustrations). My understanding is that as postmodernism emerged in the 1970s-80s, it started off as brash, 'Memphis' loud, and morphed into a more traditional, classical, and conservative version of itself as it's progenitors aged and the style became subsumed into popular culture and accepted as a capitalistic upper-class signifier. With the economic recession of the early 1990s, this understated form became even more popular, compatible with both the zeitgeist of an aging population (nostalgic photographic treatments, attempts to appear timeless by including 'classic' versions of objects rather than their then-current 1990s iterations) and the surface environmentalism of the era (earthy warm tones, 'eco-friendly' packaging, naturalistic accents like twine, twigs, wooden crates packed with straw, leaves).",
+        "Cluster": "Global Village Coffeehouse",
+        "Start year": "Late 1980s",
+        "End year": "Mid 1990s",
+        "Degree": "7",
+        "URL": "https://cari.institute/aesthetics/frasurbane"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 21.899999618530273
+    },
+    {
+      "label": "Vectorheart",
+      "x": -900.3036499023438,
+      "y": -1476.199462890625,
+      "id": "82",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/f969840729af44c8b80c7c7b8e675911.png",
+        "Description": "Pioneered by firms like Bionic Systems and The Designers' Republic, vectorheart embodies the blazing speed ofY2K Aestheticattitudes with futuristic forms and high-contrast typography that borrows from both Swiss modernism and utilitarian industrial design.",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Very Late 1990s",
+        "End year": "Mid 2000s",
+        "Degree": "6",
+        "URL": "https://cari.institute/aesthetics/vectorheart"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 19.200000762939453
+    },
+    {
+      "label": "Polychrome",
+      "x": -1317.6583251953125,
+      "y": -1154.1129150390625,
+      "id": "64",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/cb5f918595a24235b5d0a7287a086327.png",
+        "Description": "Ink in water, smoke, liquids, oils, paint explosions, blurring, melding colours. Usually a wide color palette.",
+        "Cluster": "Y2K Aesthetic",
+        "Start year": "Very Early 2010s",
+        "Degree": "2",
+        "URL": "https://cari.institute/aesthetics/polychrome"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 8.399999618530273
+    },
+    {
+      "label": "Pulp Fantasy",
+      "x": 100.6675033569336,
+      "y": -285.30438232421875,
+      "id": "67",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/16f3eda7cee7466287f1322d9b268952.png",
+        "Description": "The \"70s scifi\" aesthetic of dreamy, surreal paintings and imaginative illustration. Examples show up in both Sci-Fi & Fantasy genres.Seen often used in visuals for Prog Rock.",
+        "Cluster": "Vaporwave",
+        "Start year": "Very Early 1960s",
+        "End year": "Mid 1980s",
+        "Degree": "1",
+        "URL": "https://cari.institute/aesthetics/pulp-fantasy"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 5.699999809265137
+    },
+    {
+      "label": "Wacky Pomo",
+      "x": 815.3048095703125,
+      "y": 46.589935302734375,
+      "id": "84",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/ebb48f54f0044fc88ce3c998e70bc2b8.png",
+        "Description": "That 'wacky kidz' marketing aesthetic prominent from the late 1980s to the early 2000s, an amalgam of exaggerated motifs pulled fromGoogie Kitsch,Memphis-Milano, 1940s-60s comics & cartoons, Willy Wonka-esque Victorian whimsical eccentricism (including 'Mad Scientist tropes), cartoonified industrial vernacular, and light gross-out kids' humor. Sometimes other contemporaneous aesthetics likeDecoplexorCorporate Gen-X Cyberare incorporated, albeit with a cartoon-ified touch. 'Hypnosis spirals' are a common motif, interesting considering the marketing demographic & controversy around children's marketing during that era.",
+        "Cluster": "Wacky Pomo",
+        "Start year": "Early 1990s",
+        "End year": "Early 2000s",
+        "Degree": "4",
+        "URL": "https://cari.institute/aesthetics/wacky-pomo"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 13.800000190734863
+    },
+    {
+      "label": "Corporate Memphis",
+      "x": -243.08042907714844,
+      "y": 666.5288696289062,
+      "id": "11",
+      "attributes": {
+        "image": "https://cari-prod.s3.amazonaws.com/fa00cf1dce744463bc8e5a791aac36ee.png",
+        "Description": "The Generic 10s 'Friendly' Corporate Aesthetic, neo-Memphis, pastel colors, Mondrian influence, corporate appropration ofVaporwavemotifs, geometric sans typefaces, Monstera plants, exposed plywood, white walls, Matisse-influenced graphics.",
+        "Cluster": "Acidgrafix",
+        "Start year": "Mid 2010s",
+        "Degree": "6",
+        "URL": "https://cari.institute/aesthetics/corporate-memphis"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 19.200000762939453
+    }
+  ],
+  "edges": [
+    {
+      "source": "66",
+      "target": "69",
+      "id": "217",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "75",
+      "target": "82",
+      "id": "237",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "45",
+      "target": "61",
+      "id": "155",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "31",
+      "target": "59",
+      "id": "103",
+      "attributes": {},
+      "color": "rgb(57,194,127)",
+      "size": 2
+    },
+    {
+      "source": "26",
+      "target": "81",
+      "id": "85",
+      "attributes": {},
+      "color": "rgb(255,110,68)",
+      "size": 2
+    },
+    {
+      "source": "7",
+      "target": "86",
+      "id": "27",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "9",
+      "target": "77",
+      "id": "33",
+      "attributes": {},
+      "color": "rgb(211,179,176)",
+      "size": 2
+    },
+    {
+      "source": "36",
+      "target": "55",
+      "id": "130",
+      "attributes": {},
+      "color": "rgb(185,164,2)",
+      "size": 2
+    },
+    {
+      "source": "55",
+      "target": "82",
+      "id": "182",
+      "attributes": {},
+      "color": "rgb(185,164,2)",
+      "size": 2
+    },
+    {
+      "source": "15",
+      "target": "18",
+      "id": "55",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "55",
+      "target": "56",
+      "id": "180",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    },
+    {
+      "source": "5",
+      "target": "56",
+      "id": "21",
+      "attributes": {},
+      "color": "rgb(127,162,76)",
+      "size": 2
+    },
+    {
+      "source": "3",
+      "target": "71",
+      "id": "16",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    },
+    {
+      "source": "12",
+      "target": "84",
+      "id": "45",
+      "attributes": {},
+      "color": "rgb(0,189,148)",
+      "size": 2
+    },
+    {
+      "source": "23",
+      "target": "41",
+      "id": "75",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "12",
+      "target": "35",
+      "id": "43",
+      "attributes": {},
+      "color": "rgb(0,189,148)",
+      "size": 2
+    },
+    {
+      "source": "54",
+      "target": "84",
+      "id": "177",
+      "attributes": {},
+      "color": "rgb(0,189,148)",
+      "size": 2
+    },
+    {
+      "source": "44",
+      "target": "75",
+      "id": "151",
+      "attributes": {},
+      "color": "rgb(185,164,2)",
+      "size": 2
+    },
+    {
+      "source": "56",
+      "target": "87",
+      "id": "187",
+      "attributes": {},
+      "color": "rgb(185,164,2)",
+      "size": 2
+    },
+    {
+      "source": "1",
+      "target": "67",
+      "id": "8",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    },
+    {
+      "source": "34",
+      "target": "60",
+      "id": "121",
+      "attributes": {},
+      "color": "rgb(217,158,215)",
+      "size": 2
+    },
+    {
+      "source": "22",
+      "target": "39",
+      "id": "71",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "30",
+      "target": "88",
+      "id": "100",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "4",
+      "target": "37",
+      "id": "18",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "48",
+      "target": "60",
+      "id": "163",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "0",
+      "target": "36",
+      "id": "3",
+      "attributes": {},
+      "color": "rgb(57,194,127)",
+      "size": 2
+    },
+    {
+      "source": "12",
+      "target": "32",
+      "id": "42",
+      "attributes": {},
+      "color": "rgb(127,137,140)",
+      "size": 2
+    },
+    {
+      "source": "2",
+      "target": "11",
+      "id": "9",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "8",
+      "target": "30",
+      "id": "30",
+      "attributes": {},
+      "color": "rgb(163,185,88)",
+      "size": 2
+    },
+    {
+      "source": "32",
+      "target": "62",
+      "id": "114",
+      "attributes": {},
+      "color": "rgb(255,85,132)",
+      "size": 2
+    },
+    {
+      "source": "6",
+      "target": "44",
+      "id": "23",
+      "attributes": {},
+      "color": "rgb(185,164,2)",
+      "size": 2
+    },
+    {
+      "source": "32",
+      "target": "58",
+      "id": "113",
+      "attributes": {},
+      "color": "rgb(255,85,132)",
+      "size": 2
+    },
+    {
+      "source": "11",
+      "target": "13",
+      "id": "37",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "22",
+      "target": "60",
+      "id": "72",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "21",
+      "target": "26",
+      "id": "68",
+      "attributes": {},
+      "color": "rgb(255,85,132)",
+      "size": 2
+    },
+    {
+      "source": "31",
+      "target": "75",
+      "id": "104",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "23",
+      "target": "26",
+      "id": "73",
+      "attributes": {},
+      "color": "rgb(165,77,97)",
+      "size": 2
+    },
+    {
+      "source": "7",
+      "target": "60",
+      "id": "26",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "75",
+      "target": "87",
+      "id": "238",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "9",
+      "target": "79",
+      "id": "34",
+      "attributes": {},
+      "color": "rgb(211,179,176)",
+      "size": 2
+    },
+    {
+      "source": "32",
+      "target": "80",
+      "id": "116",
+      "attributes": {},
+      "color": "rgb(255,85,132)",
+      "size": 2
+    },
+    {
+      "source": "55",
+      "target": "59",
+      "id": "181",
+      "attributes": {},
+      "color": "rgb(127,166,130)",
+      "size": 2
+    },
+    {
+      "source": "14",
+      "target": "71",
+      "id": "52",
+      "attributes": {},
+      "color": "rgb(127,162,76)",
+      "size": 2
+    },
+    {
+      "source": "78",
+      "target": "87",
+      "id": "246",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "10",
+      "target": "35",
+      "id": "35",
+      "attributes": {},
+      "color": "rgb(0,189,148)",
+      "size": 2
+    },
+    {
+      "source": "11",
+      "target": "60",
+      "id": "39",
+      "attributes": {},
+      "color": "rgb(111,166,255)",
+      "size": 2
+    },
+    {
+      "source": "0",
+      "target": "3",
+      "id": "0",
+      "attributes": {},
+      "color": "rgb(127,166,130)",
+      "size": 2
+    },
+    {
+      "source": "25",
+      "target": "27",
+      "id": "78",
+      "attributes": {},
+      "color": "rgb(57,194,127)",
+      "size": 2
+    },
+    {
+      "source": "43",
+      "target": "84",
+      "id": "147",
+      "attributes": {},
+      "color": "rgb(111,163,201)",
+      "size": 2
+    },
+    {
+      "source": "4",
+      "target": "32",
+      "id": "17",
+      "attributes": {},
+      "color": "rgb(165,77,97)",
+      "size": 2
+    },
+    {
+      "source": "13",
+      "target": "83",
+      "id": "49",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "0",
+      "target": "59",
+      "id": "4",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "21",
+      "target": "32",
+      "id": "69",
+      "attributes": {},
+      "color": "rgb(255,85,132)",
+      "size": 2
+    },
+    {
+      "source": "29",
+      "target": "61",
+      "id": "96",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "65",
+      "target": "69",
+      "id": "216",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "2",
+      "target": "59",
+      "id": "11",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "32",
+      "target": "85",
+      "id": "117",
+      "attributes": {},
+      "color": "rgb(255,85,132)",
+      "size": 2
+    },
+    {
+      "source": "0",
+      "target": "77",
+      "id": "6",
+      "attributes": {},
+      "color": "rgb(105,187,215)",
+      "size": 2
+    },
+    {
+      "source": "6",
+      "target": "36",
+      "id": "22",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "44",
+      "target": "71",
+      "id": "150",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    },
+    {
+      "source": "70",
+      "target": "86",
+      "id": "224",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "53",
+      "target": "65",
+      "id": "173",
+      "attributes": {},
+      "color": "rgb(127,140,193)",
+      "size": 2
+    },
+    {
+      "source": "32",
+      "target": "72",
+      "id": "115",
+      "attributes": {},
+      "color": "rgb(165,77,97)",
+      "size": 2
+    },
+    {
+      "source": "20",
+      "target": "63",
+      "id": "67",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "8",
+      "target": "20",
+      "id": "29",
+      "attributes": {},
+      "color": "rgb(217,158,215)",
+      "size": 2
+    },
+    {
+      "source": "57",
+      "target": "60",
+      "id": "189",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "44",
+      "target": "76",
+      "id": "152",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    },
+    {
+      "source": "53",
+      "target": "81",
+      "id": "175",
+      "attributes": {},
+      "color": "rgb(255,110,68)",
+      "size": 2
+    },
+    {
+      "source": "0",
+      "target": "19",
+      "id": "1",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "26",
+      "target": "53",
+      "id": "83",
+      "attributes": {},
+      "color": "rgb(255,85,132)",
+      "size": 2
+    },
+    {
+      "source": "51",
+      "target": "78",
+      "id": "170",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "27",
+      "target": "87",
+      "id": "90",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "59",
+      "target": "73",
+      "id": "196",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "43",
+      "target": "60",
+      "id": "146",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "8",
+      "target": "87",
+      "id": "31",
+      "attributes": {},
+      "color": "rgb(163,185,88)",
+      "size": 2
+    },
+    {
+      "source": "27",
+      "target": "30",
+      "id": "87",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "42",
+      "target": "81",
+      "id": "144",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    },
+    {
+      "source": "19",
+      "target": "25",
+      "id": "61",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "49",
+      "target": "64",
+      "id": "165",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "20",
+      "target": "60",
+      "id": "66",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "47",
+      "target": "48",
+      "id": "159",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "3",
+      "target": "56",
+      "id": "15",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    },
+    {
+      "source": "13",
+      "target": "55",
+      "id": "47",
+      "attributes": {},
+      "color": "rgb(127,166,130)",
+      "size": 2
+    },
+    {
+      "source": "53",
+      "target": "80",
+      "id": "174",
+      "attributes": {},
+      "color": "rgb(255,85,132)",
+      "size": 2
+    },
+    {
+      "source": "27",
+      "target": "36",
+      "id": "89",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "50",
+      "target": "70",
+      "id": "168",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "33",
+      "target": "60",
+      "id": "119",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "2",
+      "target": "65",
+      "id": "13",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "29",
+      "target": "37",
+      "id": "93",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "17",
+      "target": "33",
+      "id": "58",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "2",
+      "target": "26",
+      "id": "10",
+      "attributes": {},
+      "color": "rgb(127,140,193)",
+      "size": 2
+    },
+    {
+      "source": "11",
+      "target": "83",
+      "id": "41",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "11",
+      "target": "61",
+      "id": "40",
+      "attributes": {},
+      "color": "rgb(38,133,158)",
+      "size": 2
+    },
+    {
+      "source": "1",
+      "target": "44",
+      "id": "7",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    },
+    {
+      "source": "23",
+      "target": "40",
+      "id": "74",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "32",
+      "target": "57",
+      "id": "112",
+      "attributes": {},
+      "color": "rgb(239,111,193)",
+      "size": 2
+    },
+    {
+      "source": "11",
+      "target": "48",
+      "id": "38",
+      "attributes": {},
+      "color": "rgb(111,166,255)",
+      "size": 2
+    },
+    {
+      "source": "54",
+      "target": "68",
+      "id": "176",
+      "attributes": {},
+      "color": "rgb(0,189,148)",
+      "size": 2
+    },
+    {
+      "source": "13",
+      "target": "59",
+      "id": "48",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "27",
+      "target": "31",
+      "id": "88",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "37",
+      "target": "38",
+      "id": "135",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "68",
+      "target": "84",
+      "id": "220",
+      "attributes": {},
+      "color": "rgb(0,189,148)",
+      "size": 2
+    },
+    {
+      "source": "14",
+      "target": "20",
+      "id": "50",
+      "attributes": {},
+      "color": "rgb(111,163,201)",
+      "size": 2
+    },
+    {
+      "source": "29",
+      "target": "72",
+      "id": "97",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "71",
+      "target": "81",
+      "id": "228",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    },
+    {
+      "source": "29",
+      "target": "40",
+      "id": "94",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "5",
+      "target": "46",
+      "id": "20",
+      "attributes": {},
+      "color": "rgb(0,189,148)",
+      "size": 2
+    },
+    {
+      "source": "20",
+      "target": "43",
+      "id": "65",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "82",
+      "target": "87",
+      "id": "264",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "2",
+      "target": "61",
+      "id": "12",
+      "attributes": {},
+      "color": "rgb(38,133,158)",
+      "size": 2
+    },
+    {
+      "source": "4",
+      "target": "45",
+      "id": "19",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "16",
+      "target": "29",
+      "id": "57",
+      "attributes": {},
+      "color": "rgb(149,103,158)",
+      "size": 2
+    },
+    {
+      "source": "33",
+      "target": "87",
+      "id": "120",
+      "attributes": {},
+      "color": "rgb(169,164,127)",
+      "size": 2
+    },
+    {
+      "source": "46",
+      "target": "79",
+      "id": "158",
+      "attributes": {},
+      "color": "rgb(105,184,162)",
+      "size": 2
+    },
+    {
+      "source": "49",
+      "target": "87",
+      "id": "167",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "7",
+      "target": "48",
+      "id": "25",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "56",
+      "target": "81",
+      "id": "186",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    },
+    {
+      "source": "76",
+      "target": "81",
+      "id": "241",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    },
+    {
+      "source": "8",
+      "target": "9",
+      "id": "28",
+      "attributes": {},
+      "color": "rgb(211,179,176)",
+      "size": 2
+    },
+    {
+      "source": "36",
+      "target": "82",
+      "id": "132",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "21",
+      "target": "88",
+      "id": "70",
+      "attributes": {},
+      "color": "rgb(185,138,66)",
+      "size": 2
+    },
+    {
+      "source": "28",
+      "target": "72",
+      "id": "91",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "36",
+      "target": "49",
+      "id": "129",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "31",
+      "target": "82",
+      "id": "105",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "32",
+      "target": "52",
+      "id": "111",
+      "attributes": {},
+      "color": "rgb(255,85,132)",
+      "size": 2
+    },
+    {
+      "source": "14",
+      "target": "35",
+      "id": "51",
+      "attributes": {},
+      "color": "rgb(0,189,148)",
+      "size": 2
+    },
+    {
+      "source": "24",
+      "target": "26",
+      "id": "76",
+      "attributes": {},
+      "color": "rgb(255,85,132)",
+      "size": 2
+    },
+    {
+      "source": "0",
+      "target": "20",
+      "id": "2",
+      "attributes": {},
+      "color": "rgb(111,166,255)",
+      "size": 2
+    },
+    {
+      "source": "34",
+      "target": "79",
+      "id": "122",
+      "attributes": {},
+      "color": "rgb(211,179,176)",
+      "size": 2
+    },
+    {
+      "source": "75",
+      "target": "78",
+      "id": "236",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "29",
+      "target": "45",
+      "id": "95",
+      "attributes": {},
+      "color": "rgb(76,70,62)",
+      "size": 2
+    },
+    {
+      "source": "37",
+      "target": "42",
+      "id": "136",
+      "attributes": {},
+      "color": "rgb(165,103,33)",
+      "size": 2
+    },
+    {
+      "source": "31",
+      "target": "88",
+      "id": "107",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "7",
+      "target": "15",
+      "id": "24",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "26",
+      "target": "80",
+      "id": "84",
+      "attributes": {},
+      "color": "rgb(255,85,132)",
+      "size": 2
+    },
+    {
+      "source": "49",
+      "target": "82",
+      "id": "166",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "0",
+      "target": "73",
+      "id": "5",
+      "attributes": {},
+      "color": "rgb(0,196,255)",
+      "size": 2
+    },
+    {
+      "source": "31",
+      "target": "87",
+      "id": "106",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "31",
+      "target": "51",
+      "id": "102",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "36",
+      "target": "64",
+      "id": "131",
+      "attributes": {},
+      "color": "rgb(115,192,0)",
+      "size": 2
+    },
+    {
+      "source": "15",
+      "target": "16",
+      "id": "54",
+      "attributes": {},
+      "color": "rgb(223,137,255)",
+      "size": 2
+    },
+    {
+      "source": "12",
+      "target": "46",
+      "id": "44",
+      "attributes": {},
+      "color": "rgb(0,189,148)",
+      "size": 2
+    },
+    {
+      "source": "42",
+      "target": "76",
+      "id": "143",
+      "attributes": {},
+      "color": "rgb(255,136,5)",
+      "size": 2
+    }
+  ]
+}
