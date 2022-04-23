@@ -26,7 +26,7 @@ urls_element = SubElement(attributes_element,"attribute",id="3",title="url",type
 images_element = SubElement(attributes_element,"attribute",id="4",title="image",type="string")
 
 #set attributes for attributes element here, otherwise interferes with adding subelements
-attributes_element.set("class","nodes")
+attributes_element.set("class","node")
 
 with open(source_file,"r") as json_file:
 
